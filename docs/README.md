@@ -1,15 +1,13 @@
 ---
-title: Outreach Shame
+title: UX개발팀
 ---
 
-# Outreach Shame
+# UX개발팀 IT 기술 블로그
 
-Outreach Shame is the place to expose every lousy outreach emails. It's every online marketer's worst nightmares. These emails are everything you shouldn't do to promote your business & content. Everything's kept anonymous for good fun above all.
+최신 IT 기술을 스터디, 분석, 내재화 하기 위한 기술 블로그 입니다.
 
-## How can you contribute?
+프론트엔드, 벡엔드, 데이타베이스, 머신러닝 까지 IT 전체의 기술들에 대해 꾸준히 글을 올려보도록 하겠습니다 !
 
-Simple, forward us the shameful email to [*outreachshame@snipcart.com*](mailto:outreachshame@snipcart.com) where it'll be up for moderation. We kindly ask you to censor any personal information from the email before forwarding it to us. Once your submission is accepted by our team it’ll be published on the site outreachshame.com.
+Java Spring Webflux .Net C/C++ Javascript(>=ES2015) Node.js React Vue.js Docker Kubernetes Deep-learning Unity
 
-## How does it work?
-
-Once a submission is approved, a commit is pushed in this [GitHub repository](https://github.com/snipcart/outreachshame). We then use [Forestry](https://forestry.io/#/) to make content editing and publishing easier for our dumb marketing folks. Once the entry is published, the site is built and deployed automatically on Netlify.
+[블로그 글 보기](/blog/)
