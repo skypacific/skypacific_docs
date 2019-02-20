@@ -1,0 +1,23 @@
+{
+  "name": "skypacific-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://skypacific@bitbucket.org/skypacific/skypacific-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/skypacific/skypacific-docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.9"
+  }
+}
