@@ -1,0 +1,11 @@
+language: node_js
+node_js: '10'
+install: echo 'Skip install'
+script: echo 'Skip test'
+deploy:
+  provider: npm
+  email: zlliang15@fudan.edu.cn
+  api_key:
+    secure: teE5vVisexseeArk1te6z+uzy5Guq46B2LH6PU/ffmTFC2sEc6oT7Y9x51pwhdD91huFUu/DYSgMATsOtH0ija0e44Wq35kjsmrRM0N6zLOqgI8tIow4i+gWY976hrE5PF8dLtS7i/MRcTU9el5rAO5ASElE3B4qnzTqR7lPH0/kp4uGzfxW8CnEw8xC3ioVg174PPgO6JT0jZaW+/xagBVjVYVDJdrUVexAp8wroPmdOqXyfVy22GwLzB/bBoV/aB407ykREmSBUFXhEq65QlAz/J16KOvGvW8KOEY/S/LIt+AKKcko7JxxiiXo/K1WgWC2RuUNoe9V1pi0gDp884Uyp4rNgaKu1MymOi4eTNydhWkOhMXcZdJCuSuUd9eFdQXuzOeiD2wx/lkyILzGCZkxPsUvY1lYHY9IySyReiWzxQqeN6oRsHWQpoP5aWdlm4/e3lXfFpU0gO/jDIiD8TeJpOPltV6iFKg7GiJcPxi7LK670zHJ1fkWEs5wM9rURVpBuu81qzHRmlumeJEOIvboFk+k8wwDZ7z92yM10mwXPjaL7BT1UG4zR7xEaWPATSWJdKTRIgURqZfxyFp410ZGeih6wWHjTXBkT4GKUfhJfymfjm3m2W0RzW+PdLulYJw8wHEAxExEePeW0lfniYSArsEQKICLQUtv432i8M8=
+  on:
+    tags: true

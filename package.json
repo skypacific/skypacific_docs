@@ -1,23 +1,35 @@
 {
-  "name": "skypacific-docs",
-  "version": "1.0.0",
-  "description": "",
+  "name": "vuepress-theme-jupiter",
+  "version": "0.1.13",
+  "description": "A simple theme for VuePress",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
+  "author": "Zilong Liang",
+  "license": "MIT",
+  "keywords": [
+    "jupiter",
+    "vue",
+    "vuepress",
+    "vuepress-theme"
+  ],
+  "homepage": "https://github.com/zlliang/vuepress-theme-jupiter",
   "repository": {
     "type": "git",
-    "url": "git+https://skypacific@bitbucket.org/skypacific/skypacific-docs.git"
+    "url": "git+https://github.com/zlliang/vuepress-theme-jupiter.git"
   },
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/skypacific/skypacific-docs#readme",
-  "devDependencies": {
-    "vuepress": "^0.14.9"
+  "scripts": {
+    "docs:link": "yarn link && yarn link vuepress-theme-jupiter",
+    "docs:dev": "yarn docs:link && vuepress dev docs",
+    "docs:build": "yarn docs:link && vuepress build docs"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.0",
+    "bulma-jupiter": "^0.1.2",
+    "dayjs": "^1.8.0",
+    "node-sass": "^4.11.0",
+    "nprogress": "^0.2.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.0-alpha.35",
+    "vuepress-plugin-latex": "^0.1.3",
+    "vuepress-plugin-shiki": "^0.1.3"
   }
 }

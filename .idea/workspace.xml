@@ -1,73 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba3a842-83ec-46db-8b06-0316ebd3b91c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/download/sbtest01.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/download/sbtest02.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/download/sbtest03.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/download/sbvue.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/download/vuetify02.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/IntelliJ01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/IntelliJ02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/IntelliJ03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/background_image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/background_image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/background_image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/background_image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/df_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/eclipse_screen_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/intellij_screen_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/internet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/java_application_main_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/java_application_main_hello.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/kang.heehun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/marketplace-springtools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/neofetch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbbuild01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbbuild02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbcreatejpa01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_controller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_repository01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbjpa01_rest_product2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbjpa01_rest_products.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbservice01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbservice02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/sbtestapp1_new_controller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/slime.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/springboot01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/springboot02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/typewritter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vscode_screen_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_project06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/vuejs_store_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/images/wb_exchange_inbox_subject_01.png" afterDir="false" />
+    <list default="true" id="f1a634ef-c37e-454e-8290-4099d4c19a00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/css/nerd-fonts-generated.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/internet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/BlogIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/BlogIndex.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/download/sbtest01.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/download/sbtest01.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/download/sbtest02.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/download/sbtest02.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/download/sbtest03.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/download/sbtest03.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/download/sbvue.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/download/sbvue.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/download/vuetify02.zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/download/vuetify02.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/IntelliJ01.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/IntelliJ01.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/IntelliJ02.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/IntelliJ02.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/IntelliJ03.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/IntelliJ03.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/background_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/background_image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/background_image_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/background_image_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/background_image_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/background_image_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/background_image_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/background_image_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/df_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/df_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/eclipse_screen_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/eclipse_screen_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/intellij_screen_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/intellij_screen_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/internet.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/internet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/java_application_main_default.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/java_application_main_default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/java_application_main_hello.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/java_application_main_hello.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/kang.heehun.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/kang.heehun.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/marketplace-springtools.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/marketplace-springtools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/neofetch.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/neofetch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbbuild01.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbbuild01.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbbuild02.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbbuild02.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbcreatejpa01.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbcreatejpa01.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_controller.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbjpa01_product_controller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbjpa01_product_model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbjpa01_product_repository01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbjpa01_product_repository01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbjpa01_rest_product2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbjpa01_rest_product2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbjpa01_rest_products.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbjpa01_rest_products.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbservice01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbservice01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbservice02.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbservice02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/sbtestapp1_new_controller.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/sbtestapp1_new_controller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/slime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/slime.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/springboot01.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/springboot01.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/springboot02.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/springboot02.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/typewritter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/typewritter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vscode_screen_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vscode_screen_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project02.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project03.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project04.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project05.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_project06.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_project06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/vuejs_store_06.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/vuejs_store_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/images/wb_exchange_inbox_subject_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/assets/images/wb_exchange_inbox_subject_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-21-kang.heehun@javascript-style-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-21-kang.heehun@javascript-style-guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-22-kang.heehun@ides-for-developers.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-22-kang.heehun@ides-for-developers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-25-kang.heehun@introduce-spring-boot.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-25-kang.heehun@introduce-spring-boot.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-01-30-kang.heehun@jpa-lombok-spring-boot.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-01-30-kang.heehun@jpa-lombok-spring-boot.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/blog/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/first-post-the-pledge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/getting-started/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,38 +85,78 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-25-kang.heehun@introduce-spring-boot.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="4" selection-end-column="3" />
-                <folding>
-                  <element signature="e#120#121#0" expanded="true" />
-                  <element signature="e#164#165#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/Toc.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="40" column="9" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
-                <folding>
-                  <element signature="imports" expanded="true" />
-                  <element signature="imports" expanded="true" />
-                  <element signature="imports" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/layouts/inner/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/inner/Article.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/Sidebar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partial/Header.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-728">
+              <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/Layout.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="905">
+              <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/css/nerd-fonts-generated.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/NotFound.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -117,118 +165,8 @@
         <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/about/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-                <folding>
-                  <element signature="e#118#124#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-30-kang.heehun@jpa-lombok-spring-boot.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="4" selection-end-column="3" />
-                <folding>
-                  <element signature="e#186#187#0" expanded="true" />
-                  <element signature="e#236#237#0" expanded="true" />
-                  <element signature="e#186#187#0" expanded="true" />
-                  <element signature="e#236#237#0" expanded="true" />
-                  <element signature="e#338#339#0" expanded="true" />
-                  <element signature="e#397#398#0" expanded="true" />
-                  <element signature="e#170#171#0" expanded="true" />
-                  <element signature="e#240#241#0" expanded="true" />
-                  <element signature="e#294#295#0" expanded="true" />
-                  <element signature="e#364#365#0" expanded="true" />
-                  <element signature="e#658#659#0" expanded="true" />
-                  <element signature="e#728#729#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="4" selection-end-column="3" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="138">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -241,13 +179,56 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>absolute_url</find>
+      <find>target=&quot;</find>
+      <find>```html</find>
+      <find>/assets/</find>
+      <find>eof</find>
+      <find>{% raw %}</find>
+      <find>{% endraw %}</find>
+      <find>ab</find>
+      <find>:::</find>
+      <find>&lt;코드블럭</find>
+      <find>::: v-pre</find>
+      <find>::: v-pre`</find>
+      <find>&lt;li&gt;</find>
+      <find>```javascript</find>
+      <find>&lt;k</find>
+      <find>{{</find>
+      <find>{:target=&quot;_blank&quot;}</find>
       <find>&lt;</find>
-      <find>(./assets</find>
-      <find>Contan</find>
+      <find>post_url</find>
+      <find>Contents</find>
+      <find>&lt;li&gt;</find>
+      <find>toc</find>
+      <find>sidebar-title</find>
+      <find>Side</find>
+      <find>Toc</find>
+      <find>showToc</find>
+      <find>toc()</find>
+      <find>```text</find>
+      <find>focus</find>
+      <find>click</find>
     </findStrings>
     <replaceStrings>
+      <replace />
       <replace>(../assets</replace>
+      <replace>&quot;../assets</replace>
+      <replace>../public</replace>
+      <replace>(/images</replace>
+      <replace>../assets/images</replace>
+      <replace>``` html</replace>
+      <replace>::: v-pre</replace>
+      <replace>:::</replace>
+      <replace>/assets/</replace>
+      <replace>```js</replace>
+      <replace>&amp;lt;li&amp;gt;</replace>
+      <replace>```bash</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/docs/guide</dir>
+      <dir>$PROJECT_DIR$/layouts</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -255,32 +236,38 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/docs/README.md" />
+        <option value="$PROJECT_DIR$/docs/about/README.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-01-21-kang.heehun@javascript-style-guide.md" />
-        <option value="$PROJECT_DIR$/docs/blog/2019-01-22-kang.heehun@ides-for-developers.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/components/BlogIndex.vue" />
+        <option value="$PROJECT_DIR$/docs/blog/2019-01-22-kang.heehun@ides-for-developers.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-01-25-kang.heehun@introduce-spring-boot.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-01-30-kang.heehun@jpa-lombok-spring-boot.md" />
+        <option value="$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md" />
         <option value="$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md" />
-        <option value="$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
-        <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/docs/blog/README.md" />
-        <option value="$PROJECT_DIR$/docs/about/README.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/layouts/inner/Article.vue" />
+        <option value="$PROJECT_DIR$/layouts/partial/table-of-contents/Toc.vue" />
+        <option value="$PROJECT_DIR$/layouts/partial/table-of-contents/util.js" />
+        <option value="$PROJECT_DIR$/layouts/NotFound.vue" />
+        <option value="$PROJECT_DIR$/layouts/Layout.vue" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="28" />
     <option name="width" value="1370" />
-    <option name="height" value="873" />
+    <option name="height" value="1234" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -304,6 +291,21 @@
               <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,34 +316,55 @@
             </path>
             <path>
               <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skypacific-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skypacific-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partial" type="462c0819:PsiDirectoryNode" />
+              <item name="table-of-contents" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550660471440" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550729182845" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/about" />
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/docs/blog" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/assets" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public/css" />
+      <recent name="$PROJECT_DIR$/docs/blog" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
+      <recent name="$PROJECT_DIR$/docs/assets" />
+      <recent name="$PROJECT_DIR$/docs/about" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -361,20 +384,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ba3a842-83ec-46db-8b06-0316ebd3b91c" name="Default Changelist" comment="" />
-      <created>1550656585215</created>
+      <changelist id="f1a634ef-c37e-454e-8290-4099d4c19a00" name="Default Changelist" comment="" />
+      <created>1550717439390</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550656585215</updated>
-      <workItem from="1550656586452" duration="1982000" />
+      <updated>1550717439390</updated>
+      <workItem from="1550717443192" duration="8049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1982000" />
+    <option name="totallyTimeSpent" value="8049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1370" height="873" extended-state="0" />
+    <frame x="0" y="28" width="1370" height="1234" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -418,27 +441,58 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/photo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/about/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <folding>
+              <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/BlogIndex.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="253">
+          <caret line="11" column="99" selection-start-line="11" selection-start-column="99" selection-end-line="11" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/layouts/partial/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/blog/first-post-the-pledge.md">
+    <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-21-kang.heehun@javascript-style-guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1282">
+            <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="16" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -447,21 +501,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-22-kang.heehun@ides-for-developers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-21-kang.heehun@javascript-style-guide.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="190">
+            <caret line="53" selection-start-line="53" selection-end-line="53" selection-end-column="66" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -471,9 +513,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-25-kang.heehun@introduce-spring-boot.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="834">
+            <caret line="133" column="82" selection-start-line="133" selection-start-column="82" selection-end-line="133" selection-end-column="82" />
             <folding>
               <element signature="e#120#121#0" expanded="true" />
               <element signature="e#164#165#0" expanded="true" />
@@ -487,47 +529,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-30-kang.heehun@jpa-lombok-spring-boot.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-            <folding>
-              <element signature="e#186#187#0" expanded="true" />
-              <element signature="e#236#237#0" expanded="true" />
-              <element signature="e#186#187#0" expanded="true" />
-              <element signature="e#236#237#0" expanded="true" />
-              <element signature="e#338#339#0" expanded="true" />
-              <element signature="e#397#398#0" expanded="true" />
-              <element signature="e#170#171#0" expanded="true" />
-              <element signature="e#240#241#0" expanded="true" />
-              <element signature="e#294#295#0" expanded="true" />
-              <element signature="e#364#365#0" expanded="true" />
-              <element signature="e#658#659#0" expanded="true" />
-              <element signature="e#728#729#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="310">
+            <caret line="330" lean-forward="true" selection-start-line="330" selection-end-line="330" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -538,54 +542,8 @@
     <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-28-kang.heehun@exchange-spring-boot.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="40" column="9" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
-            <folding>
-              <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/getting-started/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/blog/2019-01-24-kang.heehun@dev-env-setting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <first_editor relative-caret-position="71">
+            <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -596,8 +554,8 @@
     <entry file="file://$PROJECT_DIR$/docs/blog/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -605,18 +563,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/about/README.md">
+    <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-16-kang.heehun@introduce_vuetify.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            <folding>
-              <element signature="e#118#124#0" expanded="true" />
-            </folding>
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="7682">
+            <caret line="334" column="26" selection-start-line="334" selection-start-column="26" selection-end-line="334" selection-end-column="26" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/blog/2019-02-07-kang.heehun@introduce_vuejs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="6118">
+            <caret line="266" column="27" selection-start-line="266" selection-start-column="27" selection-end-line="266" selection-end-column="27" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guide/toc-test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="179" selection-start-line="8" selection-start-column="179" selection-end-line="8" selection-end-column="179" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/guide/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1017">
+            <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/inner/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/inner/Article.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/Toc.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partial/table-of-contents/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partial/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/css/nerd-fonts-generated.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/NotFound.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/Layout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="905">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
         </state>
       </provider>
     </entry>

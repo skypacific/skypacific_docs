@@ -1,13 +1,10 @@
 ---
+layout: about
 title: About
-permalink: /about/
 ---
 
-# About
-
-<div class="profile">
-    <img class="profile-img" src="../assets/images/kang.heehun.jpg" alt="HeeHun Kang" />
-    <p>&nbsp;</p>
+<div class="profile" style="text-align:center">
+    <img class="profile-img" src="../.vuepress/public/assets/images/kang.heehun.jpg" alt="HeeHun Kang" />
     <div class="name"><b>HeeHun Kang</b>/skypacific</div>
 </div>
 
@@ -21,7 +18,7 @@ permalink: /about/
 
 ---
 
-# Contact me
+## Contact me
 
 - <i class="nf nf-fa-facebook"></i> [facebook.com/heehun.kang.9](https://www.facebook.com/heehun.kang.9)
 - <i class="nf nf-fa-instagram"></i> [instagram.com/netwiredz](https://www.instagram.com/netwiredz)

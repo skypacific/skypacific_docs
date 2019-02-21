@@ -1,0 +1,24 @@
+/* Disable grey highlight on iOS Safari */
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+}
+
+pre {
+	margin: 1em 0;
+	background-color: #f6f6f6 !important;
+}
+
+/* Hide icons of out-bound link */
+svg.icon.outbound {
+  display: none;
+}
+
+/* Hide header anchor */
+.header-anchor {
+  display: none;
+}
+
+/* List */
+.content ul ul {
+  margin-top: 0.25em;
+}
